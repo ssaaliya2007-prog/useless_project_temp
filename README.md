@@ -119,8 +119,15 @@ Aura Calculator™ is a simple, humorous project that demonstrates the use of Re
 ### Project Demo
 # Video
 
-"C:\Users\Administrator\Downloads\WhatsApp Video 2026-09-12 at 6.30.11 AM.mp4"
 
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/517d1cc8-cfb9-459d-ac66-8c66e64f7026
 
 
 
